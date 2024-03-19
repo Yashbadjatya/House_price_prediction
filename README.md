@@ -1,2 +1,7 @@
 # House_price_prediction
 Here end to end project of house price prediction using ml
+The project aims to develop a robust house price prediction system using machine learning techniques, integrated into a fully functional web application. Leveraging the power of supervised learning, specifically linear regression, the system will analyze a dataset containing various features such as location, area in square feet, number of bedrooms, and number of bathrooms to predict the estimated price of a house. The integration of Flask, a lightweight and versatile web framework, will enable the creation of a user-friendly interface for users to input their preferences and receive accurate price predictions in real-time.
+
+This project addresses the growing demand for accurate and efficient house price estimation tools, which are crucial for both buyers and sellers in the real estate market. By leveraging machine learning models and web technologies, the system will provide users with valuable insights into the housing market, helping them make informed decisions.
+
+Through this project, we aim to demonstrate the practical application of machine learning in real-world scenarios and showcase the seamless integration of machine learning models into web applications. Additionally, by providing a user-friendly interface, the project aims to enhance the user experience and make house price prediction accessible to a wider audience.
